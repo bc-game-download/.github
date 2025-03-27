@@ -1,6 +1,6 @@
 # BC Game Download | Android & IOS
 
-## [BC Game Download](https://bcgame.one/download)
+## [BC Game Download](https://gamelogin.in/bc-game/)
 
 Welcome to the ultimate guide for downloading and installing the BC Game app. Whether you're an Android or iOS user, this guide will walk you through the steps to get started with BC Game. Follow the instructions carefully to enjoy a smooth gaming experience.
 
@@ -10,7 +10,7 @@ Welcome to the ultimate guide for downloading and installing the BC Game app. Wh
 
 ### 🔹 Download BC Game for Android
 1. **Visit the Official Site:**  
-   Go to the official [BC Game Download](https://bcgame.one/download) page.
+   Go to the official [BC Game Download](https://gamelogin.in/bc-game/) page.
 2. **Download the APK File:**  
    Click the **"Download for Android"** button to start downloading the BC Game APK file.
 3. **Enable Unknown Sources:**  
@@ -24,7 +24,7 @@ Welcome to the ultimate guide for downloading and installing the BC Game app. Wh
 
 ### 🔹 Download BC Game for iOS
 1. **Visit the Official Site:**  
-   Go to the official [BC Game Download](https://bcgame.one/download) page.
+   Go to the official [BC Game Download](https://gamelogin.in/bc-game/) page.
 2. **Open the Web App:**  
    BC Game for iOS is a web-based platform, so you can access it directly without downloading an app.
 3. **Add BC Game to Your Home Screen:**  
@@ -35,7 +35,7 @@ Welcome to the ultimate guide for downloading and installing the BC Game app. Wh
 ---
 
 ## 🔐 How to Log into BC Game
-1. Open the BC Game app or visit the [BC Game website](https://bcgame.one/download).
+1. Open the BC Game app or visit the [BC Game website](https://gamelogin.in/bc-game/).
 2. Click on **"Login"**.
 3. Enter your **username** and **password**.
 4. If you have **two-factor authentication (2FA)** enabled, enter the code from your Google Authenticator app.
@@ -93,4 +93,4 @@ Welcome to the ultimate guide for downloading and installing the BC Game app. Wh
 
 ---
 
-For more details and to start playing, visit the official [BC Game Download](https://bcgame.one/download) page. Enjoy your gaming experience! 🎯
+For more details and to start playing, visit the official [BC Game Download](https://gamelogin.in/bc-game/) page. Enjoy your gaming experience! 🎯
